@@ -1,6 +1,7 @@
 {
     "name": "abc/projects",
     "type": "project",
+    "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
     "authors": [
        {
@@ -8,11 +9,10 @@
          "email": "hello@audreyrobic.be"
        }
      ],
-    "repositories": [
-        {
-          "type": "composer",
-          "url": "https://repo.packagist.com/abc-filter/abc/"
-        },
-        {"packagist.org": false}
+     "repositories":[
+       {
+         "type": "composer",
+         "url": "https://wpackagist.org"
+       }
     ]
 }
