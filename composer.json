@@ -2,6 +2,12 @@
     "name": "abc/projects",
     "type": "project",
     "minimum-stability": "dev",
+    "authors": [
+       {
+         "name": "Audrey Robic",
+         "email": "hello@audreyrobic.be"
+       }
+     ],
     "repositories": [
         {
           "type": "composer",
