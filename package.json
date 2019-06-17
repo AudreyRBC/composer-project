@@ -1,0 +1,9 @@
+{
+  "name": "Abc",
+  "version": "1.0.6",
+  "description": "test composer",
+  "main": "/",
+  "directories": {
+    "test": "tests"
+  }
+}

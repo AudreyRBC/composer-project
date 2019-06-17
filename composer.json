@@ -17,5 +17,8 @@
       "sort-packages": true,
       "optimize-autoloader": true
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {
+        "abc/pack": "^1.0.0"
+    }
 }
