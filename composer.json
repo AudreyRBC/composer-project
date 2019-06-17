@@ -2,7 +2,6 @@
     "name": "abc/projects",
     "type": "project",
     "license": "GPL-2.0-or-later",
-    "minimum-stability": "dev",
     "authors": [
        {
          "name": "Audrey Robic",
@@ -14,5 +13,11 @@
          "type": "composer",
          "url": "https://wpackagist.org"
        }
-    ]
+    ],
+    "config": {
+      "preferred-install": "dist",
+      "sort-packages": true,
+      "optimize-autoloader": true
+    },
+    "minimum-stability": "dev"
 }
