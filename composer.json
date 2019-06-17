@@ -1,0 +1,6 @@
+{
+    "name": "abc/projects",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
