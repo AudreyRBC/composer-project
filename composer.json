@@ -8,11 +8,9 @@
          "email": "hello@audreyrobic.be"
        }
      ],
-     "repositories":[
-       {
-         "type": "composer",
-         "url": "https://wpackagist.org"
-       }
+    "repositories": [
+        {"type": "composer", "url": "https://repo.packagist.com/abc/abc/"},
+        {"packagist.org": false}
     ],
     "config": {
       "preferred-install": "dist",
