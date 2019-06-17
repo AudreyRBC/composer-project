@@ -2,5 +2,11 @@
     "name": "abc/projects",
     "type": "project",
     "minimum-stability": "dev",
-    "require": {}
+    "repositories": [
+        {
+          "type": "composer",
+          "url": "https://repo.packagist.com/abc-filter/abc/"
+        },
+        {"packagist.org": false}
+    ]
 }
